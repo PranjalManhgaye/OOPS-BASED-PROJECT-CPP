@@ -76,3 +76,14 @@ The project is designed to help different types of users manage and analyze thei
 ## 🤝 Contributions
 This project was developed as a learning initiative.  
 Suggestions and improvements are welcome.
+
+
+## 📌 How to Run
+
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/PranjalManhgaye/OOPS-BASED-PROJECT-CPP.git
+   
+2. compile the program:
+g++ -o BudgetTracker enhanced_budget_tracker.cpp
+
